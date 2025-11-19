@@ -1,4 +1,6 @@
 #include"patient_record.h"
+
+
 void display_menu()
 {
     printf("===== PATIENT RECORD MANAGEMENT SYSTEM =======\n");
